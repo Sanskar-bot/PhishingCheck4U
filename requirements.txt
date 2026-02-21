@@ -1,0 +1,11 @@
+# PhishingCheck4U — Python Dependencies
+# Compatible with Python 3.12 and 3.13 on Windows/Linux/macOS
+
+fastapi==0.115.5
+uvicorn[standard]==0.32.1
+pydantic-settings==2.6.1
+pydantic[email]==2.10.3
+sqlalchemy==2.0.36
+python-whois==0.9.4
+requests==2.32.3
+anyio==4.7.0
